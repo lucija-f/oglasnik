@@ -1,0 +1,36 @@
+1
+1
+Lucija
+F
+lucija@lucija-f.hr
+123456789
+2
+2
+tvz@tvz.hr
+987654321
+TVZ
+tvz.hr
+1
+3
+Ivana
+Horvat
+ihorvat@mail.mail
+321564789
+2
+4
+zagreb@zagreb.hr
+456789321
+Grad Zagreb
+zagreb.hr
+1
+5
+Ivan
+Horvat
+horvati@mail.mail
+753126984
+2
+6
+zagrebacka@zupanije.hr
+987654123
+Zagrebačka županija
+zagrebacka-zupanija.hr

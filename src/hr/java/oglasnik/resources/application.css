@@ -1,0 +1,27 @@
+.root {
+    -fx-background-color: #b2ebf2; 
+}
+
+.label{
+	-fx-text-fill: #e1bee7;
+	-fx-text-fill: #4f5b66;
+	-fx-font-weight: bold;
+	
+}
+
+
+.combo-box{
+	-fx-border-line: 0.5px;
+	-fx-border-color: #00bcd4;
+	-fx-background-color: #4dd0e1;
+}
+
+.comobo-box:hover{
+	-fx-text-fill: #b2ebf2;
+}
+
+.button{
+	-fx-background-color:#4dd0e1;
+	-fx-border-color: #00bcd4;
+	-fx-font-weight: bold;
+}

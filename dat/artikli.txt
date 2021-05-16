@@ -1,0 +1,95 @@
+2
+1
+BMW
+BMW M5
+625
+1100000
+2
+2
+2
+BMW
+BMW 320d
+190
+350000
+1
+2
+3
+Alfa Romeo
+Alfa Romeo 147 skoro ispravna, savršeno stanje
+150
+20000
+4
+3
+4
+Ravnice
+Prekrasan stan
+75
+1000000
+3
+3
+5
+Kvatrić
+Državni stan, derutan
+30
+200000
+4
+2
+6
+Kia
+Moja Kia
+115
+45000
+2
+3
+7
+Jarun
+Mali stan
+38
+60000
+3
+3
+8
+Precko
+Loše stanje
+55
+70000
+4
+1
+9
+Instrukcije matematika
+Povoljne instrukcije iz mat
+100
+2
+1
+10
+Programiranje
+JAVA
+150
+1
+3
+11
+Prečko
+Mali stan
+34
+34000
+3
+1
+12
+Masaža
+povoljno
+150
+1
+2
+13
+Toyota
+Yaris
+125
+60000
+3
+3
+14
+Črnomerec
+Stan, loš
+77
+90000
+4
